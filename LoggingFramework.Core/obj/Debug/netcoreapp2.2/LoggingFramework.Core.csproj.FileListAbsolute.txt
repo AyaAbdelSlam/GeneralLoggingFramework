@@ -1,0 +1,14 @@
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\bin\Debug\netcoreapp2.2\LoggingFramework.Core.deps.json
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\bin\Debug\netcoreapp2.2\LoggingFramework.Core.dll
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\bin\Debug\netcoreapp2.2\LoggingFramework.Core.pdb
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\bin\Debug\netcoreapp2.2\LoggingFramework.Common.dll
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\bin\Debug\netcoreapp2.2\LoggingFramework.Entities.dll
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\bin\Debug\netcoreapp2.2\LoggingFramework.Entities.pdb
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\bin\Debug\netcoreapp2.2\LoggingFramework.Common.pdb
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\obj\Debug\netcoreapp2.2\LoggingFramework.Core.csprojAssemblyReference.cache
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\obj\Debug\netcoreapp2.2\LoggingFramework.Core.csproj.CoreCompileInputs.cache
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\obj\Debug\netcoreapp2.2\LoggingFramework.Core.AssemblyInfoInputs.cache
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\obj\Debug\netcoreapp2.2\LoggingFramework.Core.AssemblyInfo.cs
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\obj\Debug\netcoreapp2.2\LoggingFramework.Core.csproj.CopyComplete
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\obj\Debug\netcoreapp2.2\LoggingFramework.Core.dll
+D:\Repository\New Logging Framework\LoggingFramework\LoggingFramework.Core\obj\Debug\netcoreapp2.2\LoggingFramework.Core.pdb

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "LoggingFramework.Core/1.0.0": {
+        "dependencies": {
+          "LoggingFramework.Entities": "1.0.0"
+        },
+        "runtime": {
+          "LoggingFramework.Core.dll": {}
+        }
+      },
+      "LoggingFramework.Common/1.0.0": {
+        "runtime": {
+          "LoggingFramework.Common.dll": {}
+        }
+      },
+      "LoggingFramework.Entities/1.0.0": {
+        "dependencies": {
+          "LoggingFramework.Common": "1.0.0"
+        },
+        "runtime": {
+          "LoggingFramework.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoggingFramework.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoggingFramework.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoggingFramework.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
